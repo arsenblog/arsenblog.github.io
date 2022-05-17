@@ -1,0 +1,16 @@
+tit {
+    font-family: Arial;
+    font-size: 72px;
+    font-weight: bold;
+    font-style: italic;
+} 
+subtit {
+    font-family: Arial;
+    font-size: 36px;
+    font-weight: bold;
+    font-decoration: underline;
+} 
+    basic {
+    font-style: Arial;
+    font-size: 14px;
+} 
