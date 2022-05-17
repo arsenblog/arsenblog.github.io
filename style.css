@@ -10,7 +10,27 @@ subtit {
     font-weight: bold;
     font-decoration: underline;
 } 
-    basic {
+basic {
     font-style: Arial;
     font-size: 14px;
 } 
+body {
+    background-color: burlywood;
+}
+menu {
+    background-color: bisque;
+    vertical-align: middle;
+}
+mit {
+    display: inline;
+    margin: 20px 50px;
+    padding-top:20px;
+    padding-bottom:20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-style: italic;
+}
+a {
+    color: brown;
+    text-decoration: none;
+}
