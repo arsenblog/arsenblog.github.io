@@ -1,18 +1,25 @@
+* {
+    color: brown;
+    text-align: center;
+}
 tit {
     font-family: Arial;
     font-size: 72px;
     font-weight: bold;
     font-style: italic;
+    text-align: center;
 } 
 subtit {
     font-family: Arial;
     font-size: 36px;
     font-weight: bold;
-    font-decoration: underline;
+    text-decoration: underline;
+    text-align: center;
 } 
 basic {
     font-style: Arial;
-    font-size: 14px;
+    font-size: 18px;
+    text-indent: 20px;
 } 
 body {
     background-color: burlywood;
@@ -33,4 +40,7 @@ mit {
 a {
     color: brown;
     text-decoration: none;
+}
+.left-align {
+    text-align: left;
 }
